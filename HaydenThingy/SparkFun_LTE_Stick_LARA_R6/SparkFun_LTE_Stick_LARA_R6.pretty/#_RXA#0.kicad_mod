@@ -1,0 +1,103 @@
+(footprint "#_RXA#0"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "6e0579f8-5c71-4322-93a6-259d0775ba9b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "fb08810e-cf5c-4214-a880-98628b3abf76")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fea77768-f7cb-423c-92cd-8cf0b9fa3a83")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c1b1fd5-0ff4-43fd-ba8e-9565d2d98bff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "885b9563-9795-498a-b28c-76c38e2831f3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy 3.374235 -0.092836) (xy 3.425 0.029) (xy 3.425 0.065) (xy 3.282615 0.065) (xy 3.3054 0.008036)
+			(xy 3.358434 -0.108637)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "8185c3d6-ac43-4ff5-8419-6167425c4603")
+	)
+	(fp_poly
+		(pts
+			(xy 1.411758 -0.234776) (xy 1.464265 -0.203272) (xy 1.485233 -0.129886) (xy 1.464276 -0.067018) (xy 1.411754 -0.025)
+			(xy 1.22691 -0.025) (xy 1.215 -0.04882) (xy 1.215 -0.245) (xy 1.350414 -0.245)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "9b5686d5-398a-47fd-bd47-d628316d3c8c")
+	)
+	(fp_poly
+		(pts
+			(xy 4.261385 -0.645) (xy 4.313821 -0.613538) (xy 4.594631 -0.051918) (xy 4.615392 0.010364) (xy 4.33448 0.58222)
+			(xy 4.30309 0.645) (xy 0.347929 0.645) (xy 0.315 0.612071) (xy 0.315 -0.601667) (xy 0.3475 -0.645)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "c2b9dd5f-66e1-4211-9a4f-552ab8bb1833")
+	)
+)

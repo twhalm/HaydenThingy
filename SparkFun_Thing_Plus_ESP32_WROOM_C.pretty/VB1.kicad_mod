@@ -1,0 +1,97 @@
+(footprint "VB1"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "6815b1cd-32fe-41a1-a762-32722914b0ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c8ab2969-f0d4-44fd-81a6-11f54fbd6b5e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6d4bd5e-bc12-457f-b6b9-1bfd22dc19e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "356c7527-9dcc-4a5e-a116-d3713ea32478")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f71f915-7e89-4b3f-8e9a-05e655b93871")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -0.836047 -0.443062) (xy -0.805671 -0.402562) (xy -0.566176 0.126321) (xy -0.552387 0.133216)
+			(xy -0.273639 -0.474057) (xy -0.21 -0.49527) (xy -0.147524 -0.474445) (xy -0.085827 -0.423031) (xy -0.064723 -0.37027)
+			(xy -0.08532 -0.29818) (xy -0.446019 0.423218) (xy -0.497942 0.464757) (xy -0.570461 0.475117) (xy -0.632982 0.454276)
+			(xy -0.674244 0.402699) (xy -1.034635 -0.328095) (xy -1.055471 -0.390601) (xy -1.023538 -0.443821)
+			(xy -0.941564 -0.484808) (xy -0.877928 -0.495414)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "fc519997-de98-49ce-8c86-8be24983822c")
+	)
+	(fp_poly
+		(pts
+			(xy 0.72182 -0.46468) (xy 0.782962 -0.434109) (xy 0.834109 -0.382962) (xy 0.864631 -0.321918) (xy 0.884886 -0.261153)
+			(xy 0.895051 -0.19) (xy 0.884886 -0.118847) (xy 0.864532 -0.057784) (xy 0.846188 -0.030268) (xy 0.884235 0.01729)
+			(xy 0.914835 0.07849) (xy 0.925051 0.15) (xy 0.91495 0.220707) (xy 0.904789 0.29183) (xy 0.86404 0.352954)
+			(xy 0.823419 0.40373) (xy 0.762216 0.444532) (xy 0.701153 0.464886) (xy 0.630355 0.475) (xy 0.289689 0.475)
+			(xy 0.208062 0.464797) (xy 0.165 0.4325) (xy 0.165 -0.390414) (xy 0.175448 -0.4531) (xy 0.228615 -0.485)
+			(xy 0.6507 -0.485)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "1f2fd4de-ff6d-4b01-adb7-2cc6164a767a")
+	)
+)

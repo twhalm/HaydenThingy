@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SparkFun_LTE_Stick_LARA_R6")(type "KiCad")(uri "$(KIPRJMOD)/SparkFun_LTE_Stick_LARA_R6.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SparkFun_Thing_Plus_ESP32_WROOM_C")(type "KiCad")(uri "$(KIPRJMOD)/SparkFun_Thing_Plus_ESP32_WROOM_C.pretty")(options "")(descr ""))
+)

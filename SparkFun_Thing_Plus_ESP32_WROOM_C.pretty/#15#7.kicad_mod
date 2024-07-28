@@ -1,0 +1,82 @@
+(footprint "#15#7"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "b9f12822-0972-4986-9d40-459a031694d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ee232ae6-891c-4df3-9595-bc1c94fd0b82")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8026988-28b5-4277-b336-4c958774da14")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95be7dec-ffcf-43dd-b8b5-0a48a2bb8191")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad87d7aa-4c4f-4075-8839-c00ac122782a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -0.335 -0.620414) (xy -0.335 0.674236) (xy -0.399586 0.685) (xy -2.220355 0.685) (xy -2.291045 0.674901)
+			(xy -2.361478 0.654778) (xy -2.421918 0.634631) (xy -2.54271 0.574235) (xy -2.592948 0.534043) (xy -2.653419 0.49373)
+			(xy -2.69404 0.442954) (xy -2.734044 0.382948) (xy -2.774328 0.332593) (xy -2.804678 0.261778) (xy -2.824743 0.201581)
+			(xy -2.844886 0.141153) (xy -2.855 0.070355) (xy -2.855 -0.070414) (xy -2.844885 -0.131101) (xy -2.824778 -0.201478)
+			(xy -2.804631 -0.261918) (xy -2.774333 -0.322514) (xy -2.73416 -0.382774) (xy -2.693886 -0.443185)
+			(xy -2.653536 -0.483536) (xy -2.603185 -0.533886) (xy -2.542514 -0.574333) (xy -2.421918 -0.634631)
+			(xy -2.361478 -0.654778) (xy -2.291045 -0.674901) (xy -2.220355 -0.685) (xy -0.345764 -0.685)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "335b26ce-57ac-4e64-a547-0408eb9eaa88")
+	)
+)

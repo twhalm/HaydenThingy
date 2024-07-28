@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RS485_Breakout_v10")(type "KiCad")(uri "$(KIPRJMOD)/RS485_Breakout_v10.pretty")(options "")(descr ""))
+)

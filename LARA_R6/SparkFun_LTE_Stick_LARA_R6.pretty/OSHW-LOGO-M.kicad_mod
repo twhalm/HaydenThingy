@@ -1,0 +1,89 @@
+(footprint "OSHW-LOGO-M"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Open-Source Hardware (OSHW) Logo - Medium - Silkscreen\n\nSilkscreen logo for open-source hardware designs.\n\nDevices using:\n\n• OSHW_LOGO")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "3601d4da-6ee3-41ed-9435-61d67ef94cc7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a2d93ad4-788a-45dd-b8c6-5d62968f7ecd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "991f2566-2b6d-44ed-9100-974907362b24")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1066503-9088-413d-86bf-5a77320a8a2e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f7caf15-0404-4bd4-a2db-356930e4d74b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy 0.421984 -1.703379) (xy 0.672349 -1.623252) (xy 0.90606 -1.502895) (xy 1.541801 -2.021281) (xy 2.021281 -1.541801)
+			(xy 1.502895 -0.90606) (xy 1.623252 -0.672349) (xy 1.703379 -0.421984) (xy 2.5195 -0.339128) (xy 2.5195 0.339128)
+			(xy 1.701192 0.422206) (xy 1.501506 0.904357) (xy 2.021281 1.541801) (xy 1.541801 2.021281) (xy 0.906067 1.502901)
+			(xy 0.638447 1.640838) (xy 0.252208 0.708395) (xy 0.558148 0.48994) (xy 0.653392 0.353574) (xy 0.716272 0.197201)
+			(xy 0.742289 0.030678) (xy 0.730102 -0.137419) (xy 0.680338 -0.298456) (xy 0.595561 -0.444122) (xy 0.480134 -0.566933)
+			(xy 0.339991 -0.660569) (xy 0.182354 -0.720206) (xy 0.015326 -0.742778) (xy -0.152488 -0.727123)
+			(xy -0.312454 -0.674046) (xy -0.456341 -0.586279) (xy -0.576741 -0.468339) (xy -0.667464 -0.326292)
+			(xy -0.723834 -0.167454) (xy -0.742683 -0.002358) (xy -0.660696 0.339187) (xy -0.564943 0.482488)
+			(xy -0.436698 0.601029) (xy -0.250843 0.705099) (xy -0.637803 1.639281) (xy -0.804474 1.561941) (xy -0.906954 1.503624)
+			(xy -1.541801 2.021281) (xy -2.021281 1.541801) (xy -1.501506 0.904357) (xy -1.701192 0.422206) (xy -2.5195 0.339128)
+			(xy -2.5195 -0.339128) (xy -1.701192 -0.422206) (xy -1.501506 -0.904357) (xy -2.021281 -1.541801)
+			(xy -1.541801 -2.021281) (xy -0.90606 -1.502895) (xy -0.672349 -1.623252) (xy -0.421984 -1.703379)
+			(xy -0.339128 -2.5195) (xy 0.339128 -2.5195)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "2d34238d-7bcf-48f6-86e2-9a07cda831cc")
+	)
+)
